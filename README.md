@@ -1,2 +1,5 @@
-# HackFest_DELKdevelopment
- En este repositorio se encuentra el sitio web que diseñamos como equipo para el HackFest 2022.
+#README_Hackfest 
+Dentro del presente espacio virtual podrá encontrar una guía o manual de usuario que le permitirá conocer el sistema de navegación o cnotenido que a desarrollar dentor del siguiente espacio que se encuentra segmentado y clasificado por una serie de partes o estructuras relacionadas al tema de este Hackfest 2022 con temática de desarrollo "ODS encontrados y aplicables al contexto guatemalteco en sus diferentes etapas de estructuración y desarrollo para el 2030"
+
+¿Qué se conoce como ODS?
+- Los ODS surgen a partir del año 2015, donde y cuando a partir de una serie de conferencias e información recabada de manera conjunta por los estados y ONGs integrantes de la ONU se estructuraron uan serie de propuestas en donde se plantean 17 objetivos principales enfocados en el desarrollo sostenible (por sus siglas ODS) que buscan alcanzar de manera equilibrada la capacidad de desarrollo sostenible encontrada en tres dimensiones relacionadas al ambiente estable para la estructrura: económica, social y ambiental de los paises en general.
